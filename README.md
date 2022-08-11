@@ -5,12 +5,13 @@
 - C#
 - Java
 - Kotlin
+- TypeScript
 - Python
 
 #### Framework
 
 - ASP.NET Core
-- React
+- React with Redux
 - Rx
 
 #### Infrastructure
