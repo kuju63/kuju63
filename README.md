@@ -3,9 +3,9 @@
 #### Lamguage
 
 - C#
-- Java
 - Kotlin
 - TypeScript
+- Java
 - Python
 
 #### Framework
@@ -13,15 +13,17 @@
 - ASP.NET Core
 - React with Redux
 - Rx
+- Spring Boot
 
 #### Infrastructure
 
-- AWS
+- AWS(Lambda, SQS, S3, and more)
 - Azure
 
 #### Middleware
 
 - Docker
+- OpenShift
 - PostgreSQL
 - SQL Server
 
