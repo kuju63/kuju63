@@ -1,3 +1,10 @@
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuju63&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=kuju63&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuju63&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Skills
 
 #### Lamguage
@@ -27,7 +34,6 @@
 - PostgreSQL
 - SQL Server
 
-[![kuju63 GitHub stats](https://github-readme-stats.vercel.app/api?username=kuju63&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kuju63/kuju63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
